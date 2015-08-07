@@ -12,7 +12,7 @@ usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
-Grave danger.
+Grave danger. Oh No!
 
 *(Is there another kind?)*
 
@@ -28,11 +28,17 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
+[You decide to bite the marshmallow wall](./bite-the-marshmallow/tasty-marshmallow.md)
+
 You are feeling very anxious at this point.
 
 This is because you do not like leather for ethical reasons.
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
+
+You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
+
+Do you want to [try to fill the remaining space in the sock with marshmallows](./fill-sock/fill-sock.md)?
 
 You are not sure who placed these objects near you or why.
 
@@ -100,9 +106,9 @@ Do you:
 
 [Admire your glowing pants](glowing-pants/glowing-pants.md)
 
-[Grab some coffee?] (coffee/coffee.md)
+[Grab some coffee?](coffee/coffee.md)
 
-[Call the GhostBusters] (ghostbusters/ghostbusters.md)
+[Call the GhostBusters](ghostbusters/ghostbusters.md)
 
 [Talk to Bob Barker](bob-barker/barker.md)
 
@@ -305,7 +311,7 @@ Do you:
 [I'm batman](I'm-batman/batman.md)
 
 [You realize you are in NeverLand and you are
- never going come... so you sing the Tinker Bell song] (https://youtu.be/Sopngy6uucw)
+ never going come... so you sing the Tinker Bell song](https://youtu.be/Sopngy6uucw)
 
 [You decide to become a marshmallow yourself.](becomemarshmallow/becomemarshmallow.md)
 
@@ -371,7 +377,7 @@ Do you:
 
 [You Google what to do](https://www.google.co.in/)
 
-[Abdul kalam quotes on overcoming fear] (apj/apj.md)
+[Abdul kalam quotes on overcoming fear](apj/apj.md)
 [If you want something done right, you have to do it yourself.](untrustworthy/untrustworthy.md)
 
 [There's no such thing as a free lunch.](free-lunch/free-lunch.md)
@@ -385,3 +391,21 @@ Do you:
 [Talk to Finn](talk-to-finn/finn.md)
 
 [Play Guitar](guitar/guitar.md)
+
+[Rinse the marshmallow under the tap then eat it](dysentry/dysentry.md)
+
+[Wake up!](wake-up/wake-up.md)
+
+[Thank Mr. Skeltal](2spooky/2spooky.md)
+
+[Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
+
+[Draw a trapezoid](trapezoid/trapezoid.md)
+
+[Stop, hammertime!](hammertime/hammertime.md)
+
+[Analyze the composition of the marshmallow](analyze/analysis.md)
+
+[Watch Barcelona game](watch-barca/watch-barca.md) 
+
+[Oops! this story ain't ending..](unending-story/unending-story.md)
